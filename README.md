@@ -8,6 +8,7 @@ All the information we can gather until we arrive.
 ## Acomodation ##
 
 ## Schools ##
+    - https://www.bildungssystem.at/en/kindergarten/kindergarten/
 
 
 ## Supermarket ##
